@@ -4,6 +4,7 @@ Rencana Konten:
   * framework javascript
    ^ vue
    ^ react
+   ^ angular
 - fundamental data structure
 - php framework
  ^ laravel
