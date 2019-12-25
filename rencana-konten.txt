@@ -2,7 +2,11 @@ Rencana Konten:
 - video javascript
   * ES6
   * framework javascript
+   ^ vue
+   ^ react
 - fundamental data structure
 - php framework
+ ^ laravel
 - interview
 - vlog
+- python
